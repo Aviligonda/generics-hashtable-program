@@ -1,4 +1,4 @@
-package com.hashtable;
+package com.bridzlab;
 
 import java.util.Hashtable;
 import java.util.Map;
